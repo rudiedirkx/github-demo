@@ -1,0 +1,14 @@
+{
+    "name": "rdx/github-demo",
+    "type": "project",
+    "require": {
+        "rdx/http": "^1.2"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rudie Dirkx",
+            "email": "github@hotblocks.nl"
+        }
+    ]
+}
